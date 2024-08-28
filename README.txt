@@ -1,33 +1,16 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Repository
 
+Welcome to the repository for my portfolio website's code. 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+This repository houses the code that runs my portfolio website.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## About My Portfolio
 
-(* = Not included)
+My portfolio website offers an overview of my skills, projects, and professional journey in data.
+## Access My Portfolio
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+You can access my portfolio website by visiting [Portfolio Website](https://jackbarker21.github.io/jackbarker.github.io/).
+## Acknowledgments
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- [HTML5 UP](https://html5up.net/strata) for providing the "strata" template.
+- [Axjas](https://github.com/AXJAS/axjas.github.io/tree/main) for how he structured his repo that I used as a template.
